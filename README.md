@@ -5,7 +5,7 @@ This is a demo project for a Spring Boot application implementing the Model Cont
 ## Project Structure
 
 - **src/main/java**: Contains the main Java source code for the application.
-  - `com.example.spring_boot_mcp_demo`: Includes the main application classes such as `Book`, `BookController`, `DemoApplication`, and `DemoController`.
+  - `com.msra.spring_boot_mcp_demo`: Includes the main application classes such as `Book`, `BookController`, `DemoApplication`, and `DemoController`.
 - **src/main/resources**: Contains application resources such as `application.properties`, `books.json`, and templates.
 - **src/test/java**: Contains test cases for the application.
 - **build/**: Contains compiled classes, generated sources, and build reports.
